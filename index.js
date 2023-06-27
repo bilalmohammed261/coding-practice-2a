@@ -15,6 +15,6 @@ let days = 5;
 
 console.log(formattedres);
 
-console.log("Hi there");
+
 
 
